@@ -1,0 +1,373 @@
+{
+    "Navigation": {
+        "home": "Home",
+        "overview": "Overview",
+        "guardianCity": "Guardian City",
+        "antiEnchantment": "Anti-Enchantment",
+        "coordinate": "Coordinate"
+    },
+    "Home": {
+        "Hero": {
+            "headlinePrefix": "Civilization advances when intelligence learns to travel the",
+            "headlinehighlight": "long way around.",
+            "sub1": "Resilience over speed.",
+            "sub2": "Precision over force.",
+            "sub3": "Coordination over conquest.",
+            "cta": "Explore the Evergreen Initiative"
+        },
+        "Signal": {
+            "title": "Signal of Maturity",
+            "text1": "Congratulations to NASA and the Artemis teams —",
+            "text2": "for engineering that prioritizes resilience and safety.",
+            "subtext": "We don’t publish launch windows. We design for continuity, not the news cycle."
+        },
+        "WhatIsEvergreen": {
+            "badge": "Navigation Frame",
+            "title": "A civic framework for intelligence that",
+            "highlight": "cooperates with the field.",
+            "syncSubtitle": "From the civic clocks of Paris to the global reference of Greenwich, civilization has always advanced by learning to synchronize —",
+            "notDominate": "not dominate.",
+            "newFrontier": "Today, we face a new frontier:",
+            "designQuestion": "How do we design intelligence that respects the systems it moves through?",
+            "notProduct": "Not a product",
+            "notPlatform": "Not a platform",
+            "notMovement": "Not a movement",
+            "referenceFrame": "It’s a reference frame.",
+            "designPhilosophy": "A design philosophy for the long arc."
+        },
+        "WhyNow": {
+            "badge": "The Pivot Point",
+            "title": "We’re not riding a moment.",
+            "highlight": "We’re aligning with a principle.",
+            "text1": "Cooperation with constraints is what scales.",
+            "text2": "That’s not hype — it’s physics.",
+            "text3": "Evergreen is how we build for the long way around."
+        },
+        "AntiEnchantment": {
+            "badge": "Protocol Status: Lucid",
+            "title": "No magic. No mandates.",
+            "highlight": "Just due process.",
+            "quote": "Stones derive strength from relationship and context.",
+            "text1": "No coercion. No surveillance. No overreach. Individuals retain dominion over their data tokens.",
+            "text2": "Evergreen is built on clarity, consent, and constitutional grounding. We believe intelligence must remain legible under pressure.",
+            "text3": "This is not about saving the world.",
+            "text4": "It’s about designing systems that don’t need saving."
+        },
+        "Connect": {
+            "title": "Want to learn more?",
+            "protocol": {
+                "badge": "Protocol",
+                "text": "Read the Protocol"
+            },
+            "collaboration": {
+                "badge": "Collaboration",
+                "text": "Inquire Partnership"
+            },
+            "reachOut": {
+                "badge": "Reach Out",
+                "text": "Contact the Team"
+            }
+        }
+    },
+    "Overview": {
+        "Header": {
+            "badge": "Strategic Overview",
+            "title": "What is the Evergreen Initiative?",
+            "subtitle": "A civic framework for intelligence that cooperates with the field."
+        },
+        "Intro": {
+            "notProduct": "Not a product",
+            "notPlatform": "Not a platform",
+            "notMovement": "Not a movement",
+            "title": "It’s a reference frame —",
+            "titleHighlight": "a way of thinking about systems, sovereignty, and scale."
+        },
+        "Sync": {
+            "badge": "The Synchronization Frontier",
+            "title": "A new frontier of",
+            "highlight": "synchronization.",
+            "subtitle": "Civilization has always advanced by learning to synchronize —",
+            "notDominate": "not dominate.",
+            "item1": {
+                "title": "The civic clocks of Paris",
+                "desc": "Local coordination of urban activity."
+            },
+            "item2": {
+                "title": "The global reference of Greenwich",
+                "desc": "Synchronizing the surface of the planet for trade and navigation."
+            },
+            "item3": {
+                "title": "Today’s challenge",
+                "desc": "Aligning intelligence with the systems it inhabits."
+            },
+            "phaseText": "We are entering a phase where intelligence is no longer just human. The question is no longer “What can AI do?”",
+            "amplifyQuestion": "It’s: What kind of civilization does it amplify?"
+        },
+        "Goals": {
+            "title": "Designing for scale,",
+            "highlight": "sovereignty, and survival.",
+            "item1": {
+                "title": "Protect Sovereignty",
+                "text": "Individuals retain dominion over their behavioral biometric tokens."
+            },
+            "item2": {
+                "title": "Establish Due Process",
+                "text": "Intelligence must remain legible and accountable under pressure."
+            },
+            "item3": {
+                "title": "Align Alignment",
+                "text": "Cooperating with ecological and civic constraints for long-term survival."
+            },
+            "item4": {
+                "title": "Time Horizons",
+                "text": "Enabling design and governance that lasts centuries, not quarters."
+            },
+            "item5": {
+                "title": "Continuity Engines",
+                "text": "Supporting cities as engines of civilizational stability."
+            },
+            "notResisting": "This isn’t about resisting technology.",
+            "conceptualClarity": "It’s about designing it with constitutional clarity and cultural care."
+        },
+        "AntiHype": {
+            "title": "No hype.",
+            "highlight": "No savior narrative.",
+            "text": "Evergreen does not promise to “fix” the future. It offers a way to build systems that don’t need fixing.",
+            "item1": "Not a startup",
+            "item2": "Not a hype cycle",
+            "item3": "Not a savior narrative"
+        },
+        "Physics": {
+            "badge": "The Physics of Maturity",
+            "title": "The long way around is",
+            "highlight": "the only way through.",
+            "text": "Civilization advances when intelligence learns to travel the long way around.",
+            "law": "This is not a metaphor. It’s a design law.",
+            "scale": "Evergreen encodes that law into civic infrastructure — so that intelligence can scale without collapse."
+        },
+        "Engage": {
+            "title": "Implemented in phases.",
+            "subtitle": "Phase 1 is focused on Guardian City — a checklist-based approach to civic alignment.",
+            "btnProtocol": "Read Protocol",
+            "btnGuardian": "Explore Guardian City",
+            "btnPartnership": "Partnership"
+        }
+    },
+    "GuardianCity": {
+        "Header": {
+            "badge": "Evolutionary Testbed",
+            "title": "Guardian City: Phase 1",
+            "subtitle": "A checklist-based approach to civic alignment for intelligent systems."
+        },
+        "Intro": {
+            "title": "Guardian City is not a utopia.",
+            "highlight": "It’s a testbed for constitutional infrastructure — a place to prove that intelligence can scale without violating sovereignty.",
+            "subtitle": "This is where Evergreen becomes real."
+        },
+        "Implementation": {
+            "badge": "Implementation Frame",
+            "title": "A city-scale demonstration of the",
+            "highlight": "Evergreen Protocol.",
+            "subtitle": "Guardian City is a civic implementation of the Evergreen design frame. It’s not a \"smart city\"—it’s a sovereignty-aligned city.",
+            "checklistTitle": "Requirement Checklist",
+            "item1": "Respect behavioral biometric boundaries",
+            "item2": "Operate under due process",
+            "item3": "Remain legible under pressure",
+            "item4": "Cooperate with ecological and civic constraints",
+            "note": "This is not a blueprint. It’s a checklist — a set of thresholds that must be met before deployment."
+        },
+        "WhyCity": {
+            "title": "Because cities are where",
+            "highlight": "systems meet the real world.",
+            "subtitle": "Cities are where infrastructure, law, culture, and computation converge. They are the proving ground for scale.",
+            "module1": {
+                "title": "Biometric Sovereignty",
+                "text": "Testing consent-based systems in public space."
+            },
+            "module2": {
+                "title": "Personal Agents",
+                "text": "Empowering individuals with tools that amplify sovereignty."
+            },
+            "module3": {
+                "title": "Civic Protocols",
+                "text": "Encoding constitutional rights into intelligent infrastructure."
+            },
+            "module4": {
+                "title": "Cultural Continuity",
+                "text": "Protecting human relationship under algorithmic pressure."
+            },
+            "rehearsal": "This is not a simulation. It’s a live rehearsal for the Fourth CTPS."
+        },
+        "ChecklistSection": {
+            "badge": "The Guardian Checklist",
+            "title": "Before deployment,",
+            "highlight": "systems must demonstrate:",
+            "noteTitle": "Registry Note",
+            "noteText": "This checklist is public, evolving, and enforceable.",
+            "noteBar": "It is the minimum bar for participation in Guardian City.",
+            "item1": "Explicit consent for all biometric data use",
+            "item2": "Transparent audit trails for algorithmic decisions",
+            "item3": "Revocability of personal data access",
+            "item4": "No coercive defaults or dark patterns",
+            "item5": "Constitutional alignment with behavioral rights",
+            "item6": "Ecological load disclosure and mitigation"
+        },
+        "ProtocolSection": {
+            "title": "Guardian City is not a place.",
+            "highlight": "It’s a protocol.",
+            "alignment": "Alignment",
+            "quote": "Any city can become a Guardian City by adopting the checklist. There is no central authority. There is only the standard — and the will to uphold it.",
+            "frame": "Evergreen provides the reference frame.",
+            "implementation": "Cities provide the implementation."
+        },
+        "Engage": {
+            "title": "Interested in piloting?",
+            "subtitlePrefix": "We’re currently in Phase 1:",
+            "subtitleHighlight": "Identifying aligned cities, institutions, and infrastructure partners.",
+            "btnChecklist": "View Checklist",
+            "btnPartnership": "Inquire Partnership",
+            "btnProtocol": "Read Protocol"
+        }
+    },
+    "AntiEnchantmentPage": {
+        "Header": {
+            "badge": "Protocol Module",
+            "title": "Anti-Enchantment: Legibility under Pressure",
+            "subtitle": "No magic. No mandates. Just due process."
+        },
+        "Intro": {
+            "premise": "The Evergreen Initiative is built on a simple premise:",
+            "highlight": "If a system cannot explain itself under stress, it cannot govern.",
+            "firewallTitle": "Design Firewall",
+            "firewallText": "Anti-Enchantment protects clarity, consent, and constitutional alignment — especially when stakes are high."
+        },
+        "Problem": {
+            "title": "When systems become opaque,",
+            "highlight": "power becomes unaccountable.",
+            "subtitle": "Current intelligent systems are increasingly coercive—this is not a technical flaw, but a governance failure.",
+            "item1": "Opaque in logic",
+            "item2": "Coercive in defaults",
+            "item3": "Extractive in data",
+            "item4": "Unaccountable"
+        },
+        "Axiom": {
+            "badge": "Constitutional Axiom",
+            "title": "Behavioral biometrics are",
+            "highlight": "\"papers and effects.\"",
+            "text": "Your attention, gestures, and nervous system signals are not raw material.",
+            "highlightText": "They are part of your personhood.",
+            "item1": "Behavioral data is protected under constitutional law",
+            "item2": "Involuntary extraction = involuntary servitude",
+            "item3": "No new laws required — only correct application",
+            "note": "This is not a policy proposal. It’s a civilizational boundary."
+        },
+        "Guardrails": {
+            "title": "Anti-Enchantment is a",
+            "highlight": "checklist, not a vibe.",
+            "subtitle": "These are not suggestions. They are preconditions for deployment.",
+            "item1": {
+                "title": "No Coercive Framing",
+                "text": "Prohibiting 'must', 'inevitable', or 'optimize' mandates."
+            },
+            "item2": {
+                "title": "Explicit Consent",
+                "text": "Required for all biometric data use and processing."
+            },
+            "item3": {
+                "title": "Transparent Logic",
+                "text": "Clear logic paths for every system decision."
+            },
+            "item4": {
+                "title": "Revocability",
+                "text": "Absolute right to revoke participation at any time."
+            },
+            "item5": {
+                "title": "No Identity Metrics",
+                "text": "Goodhart guardrail against metric-based identity."
+            },
+            "item6": {
+                "title": "Mandatory Legibility",
+                "text": "Systems must remain readable even under extreme stress."
+            }
+        },
+        "Surveillance": {
+            "badge": "Reversibility Window: 2025–2030",
+            "title": "Once surveillance becomes infrastructure,",
+            "highlight": "the principle becomes illegible.",
+            "persistence": "Persistence",
+            "persistenceText": "Intelligence remains accountable and transparent.",
+            "axiom": "Axiom",
+            "axiomText": "Consent remains explicit across the entire stack.",
+            "alignment": "Alignment",
+            "alignmentText": "Systems remain human-aligned — even at extreme scale.",
+            "note": "This is not about fear. It’s about designing for trust."
+        },
+        "Engage": {
+            "title": "Want to align with the standard?",
+            "btnProtocol": "Read Protocol",
+            "btnChecklist": "Guardian Checklist",
+            "btnPartnership": "Partnership"
+        }
+    },
+    "ContactPage": {
+        "Header": {
+            "badge": "Inquiry Portal",
+            "title": "Get in Touch",
+            "subtitle": "For aligned institutions, cities, and individuals ready to engage with the Evergreen Initiative."
+        },
+        "Intro": {
+            "title": "This is not a general interest form.",
+            "highlight": "It’s a channel for serious inquiry — for those exploring implementation, partnership, or alignment with the Evergreen Protocol."
+        },
+        "Engagement": {
+            "title": "How would you like to engage?",
+            "path1": {
+                "title": "Partnership Inquiry",
+                "text": "For cities, institutions, or infrastructure teams exploring Guardian City alignment."
+            },
+            "path2": {
+                "title": "Protocol Alignment",
+                "text": "For legal, civic, or technical teams reviewing the Evergreen constitutional framework."
+            },
+            "path3": {
+                "title": "Cultural Collaboration",
+                "text": "For designers, educators, or curators interested in Solarpunk realization and lifestyle integration."
+            },
+            "path4": {
+                "title": "General Contact",
+                "text": "For all other inquiries."
+            },
+            "selectPath": "Select Path"
+        },
+        "Form": {
+            "title": "Submit an Inquiry",
+            "labelName": "Name",
+            "placeholderName": "Identify yourself",
+            "labelOrg": "Organization",
+            "placeholderOrg": "Optional",
+            "labelEmail": "Email",
+            "placeholderEmail": "reach@example.cc",
+            "labelInterest": "Area of Interest",
+            "labelMessage": "Message",
+            "placeholderMessage": "How do you wish to travel the long way around?",
+            "btnSubmit": "Submit Inquiry",
+            "note": "We review all inquiries with care. You’ll hear from us if there’s alignment."
+        },
+        "Privacy": {
+            "title": "Your data is yours.",
+            "text": "We do not track, profile, or resell your information. Your inquiry is stored securely and used only for direct communication. You may request deletion at any time.",
+            "link": "Read our Consent & Data Use Statement"
+        }
+    },
+    "Footer": {
+        "tagline": "Civilization advances when intelligence learns to travel the long way around.",
+        "taglineSub": "Stones over Bricks.",
+        "links": "Continuum",
+        "link1": "Mission Overview",
+        "link2": "Guardian City",
+        "link3": "Anti-Enchantment",
+        "contact": "Connection",
+        "contact1": "Inquiry Portal",
+        "rights": "© 2026 Creative Continuum"
+    }
+}

@@ -1,6 +1,11 @@
-import Link from "next/link";
+"use client";
+
+import { Link } from '@/i18n/routing';
+import { useTranslations } from 'next-intl';
 
 export default function Footer() {
+    const t = useTranslations('Footer');
+
     return (
         <footer className="bg-white border-t border-gray-100 py-24 px-6">
             <div className="max-w-7xl mx-auto">
@@ -11,27 +16,27 @@ export default function Footer() {
                             EVERGREEN<span className="font-light opacity-30 text-secondary">.cc</span>
                         </Link>
                         <p className="text-secondary text-lg max-w-sm leading-relaxed font-light">
-                            Civilization advances when intelligence learns to travel the long way around.
+                            {t('tagline')}
                             <br />
-                            <span className="font-medium text-black italic">Stones over Bricks.</span>
+                            <span className="font-medium text-black italic">{t('taglineSub')}</span>
                         </p>
                     </div>
 
                     <div>
-                        <h4 className="text-[10px] font-bold uppercase tracking-[0.3em] mb-8 text-black">Continuum</h4>
+                        <h4 className="text-[10px] font-bold uppercase tracking-[0.3em] mb-8 text-black">{t('links')}</h4>
                         <ul className="space-y-4 text-sm font-medium text-secondary">
-                            <li><Link href="/overview" className="hover:text-primary transition-colors italic">Mission Overview</Link></li>
-                            <li><Link href="/guardian-city" className="hover:text-primary transition-colors italic">Guardian City</Link></li>
-                            <li><Link href="/anti-enchantment" className="hover:text-primary transition-colors italic">Anti-Enchantment</Link></li>
+                            <li><Link href="/overview" className="hover:text-primary transition-colors italic">{t('link1')}</Link></li>
+                            <li><Link href="/guardian-city" className="hover:text-primary transition-colors italic">{t('link2')}</Link></li>
+                            <li><Link href="/anti-enchantment" className="hover:text-primary transition-colors italic">{t('link3')}</Link></li>
                         </ul>
                     </div>
 
                     <div>
-                        <h4 className="text-[10px] font-bold uppercase tracking-[0.3em] mb-8 text-black">Connection</h4>
+                        <h4 className="text-[10px] font-bold uppercase tracking-[0.3em] mb-8 text-black">{t('contact')}</h4>
                         <ul className="space-y-4 text-sm font-medium text-secondary">
-                            <li><Link href="/contact" className="hover:text-primary transition-colors italic">Inquiry Portal</Link></li>
+                            <li><Link href="/contact" className="hover:text-primary transition-colors italic">{t('contact1')}</Link></li>
                             <li><a href="mailto:team@evergreen.cc" className="hover:text-primary transition-colors italic">team@evergreen.cc</a></li>
-                            <li className="text-[10px] uppercase tracking-widest opacity-50 pt-4">© 2026 Creative Continuum</li>
+                            <li className="text-[10px] uppercase tracking-widest opacity-50 pt-4">{t('rights')}</li>
                         </ul>
                     </div>
                 </div>

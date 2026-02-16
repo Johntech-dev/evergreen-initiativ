@@ -1,0 +1,373 @@
+{
+    "Navigation": {
+        "home": "首页",
+        "overview": "概览",
+        "guardianCity": "守护之城",
+        "antiEnchantment": "反附魔",
+        "coordinate": "协作"
+    },
+    "Home": {
+        "Hero": {
+            "headlinePrefix": "当智慧学会",
+            "headlinehighlight": "绕远路时，文明便会进步。",
+            "sub1": "韧性胜于速度。",
+            "sub2": "精准胜于力量。",
+            "sub3": "协作胜于征服。",
+            "cta": "探索Evergreen计划"
+        },
+        "Signal": {
+            "title": "成熟的信号",
+            "text1": "祝贺NASA和Artemis团队 —",
+            "text2": "为了优先考虑韧性和安全的工程设计。",
+            "subtext": "我们要发布的不是发射窗口。我们设计的是连续性，而不是为了新闻周期。"
+        },
+        "WhatIsEvergreen": {
+            "badge": "导航框架",
+            "title": "一个与领域协作的",
+            "highlight": "智能公民框架。",
+            "syncSubtitle": "从巴黎的市政时钟到格林威治的全球标准，文明总是通过学会同步而进步 —",
+            "notDominate": "而不是统治。",
+            "newFrontier": "今天，我们面临一个新的前沿：",
+            "designQuestion": "我们如何 design 尊重其所处系统的智能？",
+            "notProduct": "不是产品",
+            "notPlatform": "不是平台",
+            "notMovement": "不是运动",
+            "referenceFrame": "它是一个参考框架。",
+            "designPhilosophy": "为了长远弧线的设计理念。"
+        },
+        "WhyNow": {
+            "badge": "转折点",
+            "title": "我们不是在追逐潮流。",
+            "highlight": "我们是在对齐原则。",
+            "text1": "与约束的协作才是能够扩展的。",
+            "text2": "这不是炒作 — 这时物理学。",
+            "text3": "Evergreen是我们为绕远路而构建的方式。"
+        },
+        "AntiEnchantment": {
+            "badge": "协议状态：清醒",
+            "title": "没有魔法。没有指令。",
+            "highlight": "只有正当程序。",
+            "quote": "基石从关系和情境中汲取力量。",
+            "text1": "没有胁迫。没有监视。没有越权。个人保留对其数据令牌的统治权。",
+            "text2": "Evergreen建立在清晰、同意和宪法基础之上。我们相信智能必须在压力下保持可读性。",
+            "text3": "这不关乎拯救世界。",
+            "text4": "这关乎设计出不需要拯救的系统。"
+        },
+        "Connect": {
+            "title": "想了解更多？",
+            "protocol": {
+                "badge": "协议",
+                "text": "阅读协议"
+            },
+            "collaboration": {
+                "badge": "协作",
+                "text": "咨询合作伙伴关系"
+            },
+            "reachOut": {
+                "badge": "联系我们",
+                "text": "联系团队"
+            }
+        }
+    },
+    "Overview": {
+        "Header": {
+            "badge": "战略概览",
+            "title": "什么是Evergreen计划？",
+            "subtitle": "一个与领域协作的智能公民框架。"
+        },
+        "Intro": {
+            "notProduct": "不是产品",
+            "notPlatform": "不是平台",
+            "notMovement": "不是运动",
+            "title": "它是一个参考框架 —",
+            "titleHighlight": "一种思考系统、主权和规模的方式。"
+        },
+        "Sync": {
+            "badge": "同步的前沿",
+            "title": "同步的",
+            "highlight": "新前沿。",
+            "subtitle": "文明总是通过学会同步而进步 —",
+            "notDominate": "而不是统治。",
+            "item1": {
+                "title": "巴黎的市政时钟",
+                "desc": "城市活动的局部协作。"
+            },
+            "item2": {
+                "title": "格林威治的全球标准",
+                "desc": "为了贸易和航海同步地球表面。"
+            },
+            "item3": {
+                "title": "今天的挑战",
+                "desc": "将智能与其所处的系统对齐。"
+            },
+            "phaseText": "我们正在进入一个智慧不再仅仅属于人类的阶段。问题不再是“AI能做什么？”",
+            "amplifyQuestion": "而是：它放大了什么样的文明？"
+        },
+        "Goals": {
+            "title": "为了规模、主权、",
+            "highlight": "和生存而设计。",
+            "item1": {
+                "title": "保护主权",
+                "text": "个人保留对其行为生物识别令牌的统治权。"
+            },
+            "item2": {
+                "title": "建立正当程序",
+                "text": "智能必须在压力下保持清晰可读并承担问责。"
+            },
+            "item3": {
+                "title": "对齐对齐方式",
+                "text": "与生态和公民约束协作，以实现长期生存。"
+            },
+            "item4": {
+                "title": "时间视角",
+                "text": "实现跨越世纪而非季度的设计与治理。"
+            },
+            "item5": {
+                "title": "持续性引擎",
+                "text": "支持城市作为文明稳定的引擎。"
+            },
+            "notResisting": "这并非关于抵制技术。",
+            "conceptualClarity": "而是关于以宪法清晰度和文化关怀来设计技术。"
+        },
+        "AntiHype": {
+            "title": "没有炒作。",
+            "highlight": "没有救世主叙事。",
+            "text": "Evergreen不承诺“修复”未来。它提供了一种构建无需修复的系统的方法。",
+            "item1": "不是创业公司",
+            "item2": "不是炒作周期",
+            "item3": "不是救世主叙事"
+        },
+        "Physics": {
+            "badge": "成熟的物理学",
+            "title": "绕远路是",
+            "highlight": "唯一的出路。",
+            "text": "当智慧学会绕远路时，文明便会进步。",
+            "law": "这不仅仅是个比喻。这是一条设计法则。",
+            "scale": "Evergreen将该法律编码进公民基础设施中 — 使得智慧可以扩展而不会崩溃。"
+        },
+        "Engage": {
+            "title": "分阶段实施。",
+            "subtitle": "第一阶段聚焦于守护之城（Guardian City） — 一种基于清单的公民对齐方法。",
+            "btnProtocol": "阅读协议",
+            "btnGuardian": "探索守护之城",
+            "btnPartnership": "合作伙伴关系"
+        }
+    },
+    "GuardianCity": {
+        "Header": {
+            "badge": "进化的测试平台",
+            "title": "守护之城：第一阶段",
+            "subtitle": "一种基于清单的智能系统公民对齐方法。"
+        },
+        "Intro": {
+            "title": "守护之城不是乌托邦。",
+            "highlight": "它是宪法基础设施的测试平台 — 一个证明智慧可以在不侵犯主权的情况下扩展的地方。",
+            "subtitle": "这是Evergreen走向现实的地方。"
+        },
+        "Implementation": {
+            "badge": "实施框架",
+            "title": "Evergreen协议的",
+            "highlight": "城市级演示。",
+            "subtitle": "守护之城是Evergreen设计框架的公民实施。它不是“智慧城市”——它是一个“主权对齐城市”。",
+            "checklistTitle": "要求清单",
+            "item1": "尊重行为生物识别边界",
+            "item2": "在正当程序下运行",
+            "item3": "在压力下保持清晰可读",
+            "item4": "与生态和公民约束协作",
+            "note": "这不是蓝图。它是一份清单 — 一套在部署前必须达到的门槛。"
+        },
+        "WhyCity": {
+            "title": "因为城市是",
+            "highlight": "系统与现实世界相遇的地方。",
+            "subtitle": "城市是基础设施、法律、文化和计算汇聚的地方。它们是测试规模的试验场。",
+            "module1": {
+                "title": "生物识别主权",
+                "text": "在公共空间测试基于同意的系统。"
+            },
+            "module2": {
+                "title": "个人智能体",
+                "text": "用增强主权的工具赋能个人。"
+            },
+            "module3": {
+                "title": "公民协议",
+                "text": "将宪法权利编码进智能基础设施。"
+            },
+            "module4": {
+                "title": "文化连续性",
+                "text": "在算法压力下保护人际关系。"
+            },
+            "rehearsal": "这不是模拟。这是第四次CTPS的实地排练。"
+        },
+        "ChecklistSection": {
+            "badge": "守护者清单",
+            "title": "在部署前，",
+            "highlight": "系统必须证明：",
+            "noteTitle": "注册说明",
+            "noteText": "该清单是公开的、不断进化的且可强制执行的。",
+            "noteBar": "这是参与守护之城的最低标准。",
+            "item1": "对所有生物识别数据的使用需获得明确同意",
+            "item2": "算法决策需具备透明的审计追踪",
+            "item3": "个人数据访问权限的可撤销性",
+            "item4": "严禁强制性默认设置或诱导性设计",
+            "item5": "与行为权利的宪法对齐",
+            "item6": "披露并减少生态负荷"
+        },
+        "ProtocolSection": {
+            "title": "守护之城不是一个地方。",
+            "highlight": "它是一个协议。",
+            "alignment": "对齐",
+            "quote": "任何城市只要采用该清单，就可以成为守护之城。没有中心化权威。只有标准 — 以及维护标准的意志。",
+            "frame": "Evergreen 提供参考框架。",
+            "implementation": "城市提供具体实施。"
+        },
+        "Engage": {
+            "title": "有兴趣参与试点吗？",
+            "subtitlePrefix": "我们目前处于第一阶段：",
+            "subtitleHighlight": "寻找志同道合的城市、机构和基础设施合作伙伴。",
+            "btnChecklist": "查看清单",
+            "btnPartnership": "咨询合作伙伴关系",
+            "btnProtocol": "阅读协议"
+        }
+    },
+    "AntiEnchantmentPage": {
+        "Header": {
+            "badge": "协议模块",
+            "title": "反附魔：压力下的清晰度",
+            "subtitle": "没有魔法。没有指令。只有正当程序。"
+        },
+        "Intro": {
+            "premise": "Evergreen计划建立在一个简单的前提之上：",
+            "highlight": "如果一个系统无法在压力下解释自身，它就无法治理。",
+            "firewallTitle": "设计防火墙",
+            "firewallText": "反附魔旨在保护清晰度、知情同意和宪法一致性 — 特别是在利益攸关的情况下。"
+        },
+        "Problem": {
+            "title": "当系统变得不透明，",
+            "highlight": "权力将变得无可问责。",
+            "subtitle": "当前的智能系统正变得越来越具强制性 — 这不是技术缺陷，而是治理失败。",
+            "item1": "逻辑不透明",
+            "item2": "强制性默认设置",
+            "item3": "数据攫取",
+            "item4": "缺乏问责机制"
+        },
+        "Axiom": {
+            "badge": "宪法公理",
+            "title": "行为生物识别是",
+            "highlight": "“纸张和效果”。",
+            "text": "你的注意力、手势和神经系统信号不是原材料。",
+            "highlightText": "它们是你人格的一部分。",
+            "item1": "行为数据受宪法保护",
+            "item2": "非自愿提取 = 非自愿服役",
+            "item3": "不需要新法律 — 只需要正确应用",
+            "note": "这不是政策提议。这是文明的界限。"
+        },
+        "Guardrails": {
+            "title": "反附魔是",
+            "highlight": "一份清单，而不是一种氛围。",
+            "subtitle": "这些不是建议。它们是部署的前提条件。",
+            "item1": {
+                "title": "禁止强制性框架",
+                "text": "禁止使用“必须”、“不可避免”或“优化”等指令。"
+            },
+            "item2": {
+                "title": "明确同意",
+                "text": "所有生物识别数据的使用和处理均需获得许可。"
+            },
+            "item3": {
+                "title": "透明逻辑",
+                "text": "系统每一个决策都应有清晰的逻辑路径。"
+            },
+            "item4": {
+                "title": "可撤销性",
+                "text": "随时撤回参与的绝对权利。"
+            },
+            "item5": {
+                "title": "禁止身份指标",
+                "text": "针对基于指标的身份建立古德哈特（Goodhart）护栏。"
+            },
+            "item6": {
+                "title": "强制性清晰度",
+                "text": "即使在极端压力下，系统也必须保持可读性。"
+            }
+        },
+        "Surveillance": {
+            "badge": "可逆性窗口：2025–2030",
+            "title": "一旦监视成为基础设施，",
+            "highlight": "原则将变得模糊不清。",
+            "persistence": "持久性",
+            "persistenceText": "智慧保持问责和透明。",
+            "axiom": "公理",
+            "axiomText": "在整个堆栈中保持明确的同意。",
+            "alignment": "对齐",
+            "alignmentText": "即使在大规模扩展的情况下，系统仍与人类保持一致。",
+            "note": "这不是关于恐惧。这是关于为了信任而设计。"
+        },
+        "Engage": {
+            "title": "想要符合标准？",
+            "btnProtocol": "阅读协议",
+            "btnChecklist": "守护者清单",
+            "btnPartnership": "合作伙伴关系"
+        }
+    },
+    "ContactPage": {
+        "Header": {
+            "badge": "咨询门户",
+            "title": "联系我们",
+            "subtitle": "欢迎志同道合的机构、城市和个人参与 Evergreen 计划。"
+        },
+        "Intro": {
+            "title": "这不是一个普通的兴趣表单。",
+            "highlight": "这是一个严肃的咨询渠道 — 专门针对正在探索 Evergreen 协议实施、合作伙伴关系或对齐的各方。"
+        },
+        "Engagement": {
+            "title": "您希望以何种方式参与？",
+            "path1": {
+                "title": "合作伙伴咨询",
+                "text": "适用于正在探索与守护之城对齐的城市、机构或基础设施团队。"
+            },
+            "path2": {
+                "title": "协议对齐",
+                "text": "适用于法律、公民或技术团队，旨在审查 Evergreen 宪法框架。"
+            },
+            "path3": {
+                "title": "文化协作",
+                "text": "适用于对太阳能朋克现实化和生活方式整合感兴趣的设计师、教育者或策划人。"
+            },
+            "path4": {
+                "title": "一般联系",
+                "text": "适用于所有其他咨询。"
+            },
+            "selectPath": "选择路径"
+        },
+        "Form": {
+            "title": "提交咨询",
+            "labelName": "姓名",
+            "placeholderName": "请表明您的身份",
+            "labelOrg": "组织机构",
+            "placeholderOrg": "选填",
+            "labelEmail": "电子邮箱",
+            "placeholderEmail": "reach@example.cc",
+            "labelInterest": "感兴趣的领域",
+            "labelMessage": "信息内容",
+            "placeholderMessage": "您希望如何绕远路前行？",
+            "btnSubmit": "提交咨询",
+            "note": "我们会认真审阅所有咨询。如果符合对齐要求，您将收到我们的回复。"
+        },
+        "Privacy": {
+            "title": "您的数据由您主宰。",
+            "text": "我们不会跟踪、分析或转售您的信息。您的咨询将被安全存储，且仅用于直接沟通。您可以随时请求删除数据。",
+            "link": "阅读我们的知情同意与数据使用声明"
+        }
+    },
+    "Footer": {
+        "tagline": "当智慧学会绕远路时，文明便会进步。",
+        "taglineSub": "基石胜过砖块。",
+        "links": "连续体",
+        "link1": "任务概览",
+        "link2": "守护之城",
+        "link3": "反附魔",
+        "contact": "连接",
+        "contact1": "咨询门户",
+        "rights": "© 2026 Creative Continuum"
+    }
+}

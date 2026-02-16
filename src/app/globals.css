@@ -20,8 +20,8 @@
   --color-muted: var(--muted);
   --color-card: var(--card);
   --color-border: var(--border);
-  --font-sans: var(--font-inter), system-ui, sans-serif;
-  --font-display: var(--font-outfit), system-ui, sans-serif;
+  --font-sans: var(--font-inter), var(--font-noto-jp), var(--font-noto-sc), system-ui, sans-serif;
+  --font-display: var(--font-outfit), var(--font-noto-jp), var(--font-noto-sc), system-ui, sans-serif;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -58,10 +58,15 @@ h6 {
 
 /* Custom Utilities */
 .glass {
-  background: rgba(255, 255, 255, 0.7);
-  backdrop-filter: blur(12px);
-  -webkit-backdrop-filter: blur(12px);
-  @apply border border-gray-200/50;
+  background: rgba(255, 255, 255, 0.75);
+  backdrop-filter: blur(16px) saturate(180%);
+  -webkit-backdrop-filter: blur(16px) saturate(180%);
+}
+
+.glass-dark {
+  background: rgba(255, 255, 255, 0.9);
+  backdrop-filter: blur(20px) saturate(180%);
+  -webkit-backdrop-filter: blur(20px) saturate(180%);
 }
 
 .text-gradient {
