@@ -64,7 +64,7 @@ export default function Navbar() {
     <>
       <nav
         ref={navRef}
-        className="fixed top-6 left-1/2 -translate-x-1/2 w-[90%] max-w-5xl z-50 px-8 py-4 rounded-3xl glass backdrop-blur-2xl shadow-2xl border border-gray-100 transition-all duration-300"
+        className="fixed top-6 left-0 right-0 mx-auto w-[90%] max-w-5xl z-50 px-8 py-4 rounded-3xl glass backdrop-blur-2xl shadow-2xl border border-gray-100 transition-all duration-300"
       >
         <div className="flex justify-between items-center h-8">
           <div className="flex-shrink-0 flex items-center">
