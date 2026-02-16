@@ -55,7 +55,7 @@ export default function Navbar() {
         opacity: 0,
         duration: 0.3,
         ease: "power2.in",
-        onComplete: () => gsap.set(menuRef.current, { display: "none" })
+        onComplete: () => { gsap.set(menuRef.current, { display: "none" }); }
       });
     }
   }, [isOpen]);
